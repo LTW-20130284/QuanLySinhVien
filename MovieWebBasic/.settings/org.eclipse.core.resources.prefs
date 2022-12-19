@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//WebContent/Index.html=UTF-8
+encoding//WebContent/login.html=UTF-8
+encoding//src/com/LoginServlet.java=UTF-8
+encoding//src/com/Logout.java=UTF-8
+encoding//src/com/MyServlet.java=UTF-8
+encoding//src/com/NewServlet.java=UTF-8
+encoding//src/com/deleteservlet.java=UTF-8
+encoding//src/com/reportservlet.java=UTF-8
+encoding//src/com/updateservlet.java=UTF-8
+encoding//src/com/updateservlet2.java=UTF-8
+encoding//src/com/viewservlet.java=UTF-8
+encoding//src/config/MyConnection.java=UTF-8
+encoding//src/dao/ProfileDao.java=UTF-8
+encoding//src/dao/UserDao.java=UTF-8
